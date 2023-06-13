@@ -1,11 +1,11 @@
 import {Profile} from './user/user.js';
 import {Statistics} from './statistics/statistics.js';
-import { FriendList } from './FriendList/friendList.js';
+import { FriendList } from './FriendList/FriendList.js';
 import { TransactionHistory } from './transactionHistory/transactionHistory.js';
 
 import user from './user/user.json';
 import data from './statistics/data.json';
-import friends  from './friendList/friends.json';
+import friends  from './FriendList/friends.json';
 import transactions from './transactionHistory/transactions.json';
 
 

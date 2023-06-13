@@ -1,0 +1,21 @@
+.statistics {
+    margin: auto;
+    background-color: beige;
+    width: 512px;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.stat-list {
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.percentage {
+    color: rgb(167, 40, 40);
+}
